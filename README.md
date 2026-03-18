@@ -11,6 +11,7 @@
 
 **🗣️ Candidate Responses**
 * **Response 1:** The violin melody is prominent and weaves throughout the instrumental music piece... It starts off with a solo and continues with an animated passage that leads into a lullaby-like section. The violin remains a key element... providing a soothing yet captivating presence.
+
 * **Response 2:** The violin melody is initially prominent and central in the music excerpt, taking the lead role in the instrumental ensemble. As the music progresses, the violin's prominence wanes somewhat, giving way to other instruments such as the cello and upright bass which become more audible. Concurrently, the female voice becomes increasingly dominant, eventually overtaking the instrumental sounds by the end of the excerpt.
 
 **🧠 Reasoning Chain**
@@ -33,7 +34,7 @@
 
 <br>
 
-#### 📌 Case 2: [Your Title for AUP Case 2, e.g., Complex Audio Scene Parsing]
+### 📌 Case 2: [Your Title for AUP Case 2, e.g., Complex Audio Scene Parsing]
 *(Template for your second AUP case)*
 
 **🎧 Input Context**
@@ -60,10 +61,10 @@
 
 ---
 
-### Part II: Audio Generation Preference (AGP)
-*This task evaluates the quality, alignment, and acoustic fidelity of generated audio based on a text prompt.*
+## Part II: Audio Generation Preference (AGP)
 
-#### 📌 Case 1: [Your Title for AGP Case 1, e.g., Text-to-Audio Alignment]
+
+### 📌 Case 1: [Your Title for AGP Case 1, e.g., Text-to-Audio Alignment]
 **🎧 Input Context**
 * **Prompt:** "[Insert Generation Prompt Here, e.g., 'A dog barks three times followed by a car engine starting.']"
 
@@ -87,7 +88,7 @@
 
 <br>
 
-#### 📌 Case 2: [Your Title for AGP Case 2]
+### 📌 Case 2: [Your Title for AGP Case 2]
 *(Template for your second AGP case)*
 
 **🎧 Input Context**
