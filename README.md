@@ -6,11 +6,11 @@
 
 ### 📌 Case 1:
 **🎧 Input Context**
-* **Prompt:** "How does the prominence of the violin melody change in relation to the female voice throughout the audio clip?"
+* **Prompt:** How does the prominence of the violin melody change in relation to the female voice throughout the audio clip?
 * **Audio:** `./dataset/wavs/audio_17801.wav`
 
 **🗣️ Candidate Responses**
-* **Response 1:** The violin melody is prominent and weaves throughout the instrumental music piece... It starts off with a solo and continues with an animated passage that leads into a lullaby-like section. The violin remains a key element... providing a soothing yet captivating presence.
+* **Response 1:** The violin melody is prominent and weaves throughout the instrumental music piece, taking center stage at several intervals. It starts off with a solo and continues with an animated passage that leads into a lullaby-like section. The violin remains a key element in this composition, providing a soothing yet captivating presence.
 * **Response 2:** The violin melody is initially prominent and central in the music excerpt, taking the lead role in the instrumental ensemble. As the music progresses, the violin's prominence wanes somewhat, giving way to other instruments such as the cello and upright bass which become more audible. Concurrently, the female voice becomes increasingly dominant, eventually overtaking the instrumental sounds by the end of the excerpt.
 
 **🧠 Reasoning Chain**
@@ -28,7 +28,7 @@
 * **🏆 Dimension Winner: Response 2 is better** (Significantly more comprehensive regarding actual content).
 
 **⚖️ Summary**
-> **Summary:** Response 2 is the overall winner because it is the only response that actually addresses the prompt's core requirement: comparing the violin to the female voice. Response 1 completely ignores the female voice, failing the prompt entirely. While both models had issues with acoustic grounding (Response 1 missed the voice, Response 2 hallucinated specific instrumental details), Response 2 provided a much more comprehensive answer by acknowledging the speech event at the end of the clip.
+> Response 2 is the overall winner because it is the only response that actually addresses the prompt's core requirement: comparing the violin to the female voice. Response 1 completely ignores the female voice, failing the prompt entirely. While both models had issues with acoustic grounding (Response 1 missed the voice, Response 2 hallucinated specific instrumental details), Response 2 provided a much more comprehensive answer by acknowledging the speech event at the end of the clip.
 * **👑 Overall Winner: Response 2 is better**
 
 <br>
@@ -58,7 +58,7 @@
 * **🏆 Dimension Winner: Response 2 is better** (Significantly more comprehensive regarding actual content).
 
 **⚖️ Summary**
-> **Summary:** 
+> 
 * **👑 Overall Winner: Response 2 is better**
 
 ---
@@ -66,51 +66,57 @@
 ## Part II: Audio Generation Preference (AGP)
 
 
-### 📌 Case 1:
+### 📌 Case 3:
 **🎧 Input Context**
-* **Prompt:** "[Insert Generation Prompt Here, e.g., 'A dog barks three times followed by a car engine starting.']"
+* **Prompt:** 
 
 **🗣️ Candidate Generations**
-* **Audio 1:** `./dataset/generated/agp_case1_modelA.wav`
-* **Audio 2:** `./dataset/generated/agp_case1_modelB.wav`
+* **Audio 1:** `./wavs/agp_case1_modelA.wav`
+* **Audio 2:** `./wavs/agp_case1_modelA.wav`
 
 **🧠 Reasoning Chain**
 
-**1. Prompt Adherence (Text-to-Audio Alignment)**
-> [Insert reasoning: e.g., Response 1 only features two barks, whereas Response 2 correctly captures three distinct barks and the engine sound...]
-* **🏆 Dimension Winner: [Response X] is better**
+**1. 🎯Prompt Following** 
+> 
+* **🏆 Dimension Winner: Response 2 is better**.
 
-**2. Acoustic Quality (Fidelity & Artifacts)**
-> [Insert reasoning: e.g., Response 2 has noticeable high-frequency artifacting and background hiss, while Response 1 presents a clean, studio-quality sound profile...]
-* **🏆 Dimension Winner: [Response X] is better**
+**2. 🎵Audio Quality** 
+> 
+* **🏆 Dimension Winner: Tie**.
 
-**🎯 Final Verdict**
-> **Summary:** [Insert overall reasoning summary balancing prompt adherence vs. audio quality...]
-* **👑 Overall Winner: [Response X]**
+**3. 📚Acoustic Detail**
+> 
+* **🏆 Dimension Winner: Response 2 is better** (Significantly more comprehensive regarding actual content).
+
+**⚖️ Summary**
+> 
+* **👑 Overall Winner: Response 2 is better**
 
 <br>
 
-### 📌 Case 2: 
-
+### 📌 Case 4:
 **🎧 Input Context**
-* **Prompt:** "[Insert Prompt Here]"
+* **Prompt:** 
 
 **🗣️ Candidate Generations**
-* **Audio 1:** `./dataset/generated/agp_case1_modelA.wav`
-* **Audio 2:** `./dataset/generated/agp_case1_modelB.wav`
+* **Audio 1:** `./wavs/agp_case1_modelA.wav`
+* **Audio 2:** `./wavs/agp_case1_modelA.wav`
 
 **🧠 Reasoning Chain**
 
-**1. [Dimension 1]**
-> [Insert reasoning process...]
-* **🏆 Dimension Winner: [Response 1 / Response 2 / Tie]**
+**1. 🎯Prompt Following** 
+> 
+* **🏆 Dimension Winner: Response 2 is better**.
 
-**2. [Dimension 2]**
-> [Insert reasoning process...]
-* **🏆 Dimension Winner: [Response 1 / Response 2 / Tie]**
+**2. 🎵Audio Quality** 
+> 
+* **🏆 Dimension Winner: Tie**.
 
-**🎯 Final Verdict**
-> **Summary:** [Insert overall reasoning summary...]
-* **👑 Overall Winner: [Response X]**
+**3. 📚Acoustic Detail**
+> 
+* **🏆 Dimension Winner: Response 2 is better** (Significantly more comprehensive regarding actual content).
 
+**⚖️ Summary**
+> 
+* **👑 Overall Winner: Response 2 is better**
 ---
