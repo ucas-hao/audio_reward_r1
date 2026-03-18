@@ -64,13 +64,13 @@
 ## Part II: Audio Generation Preference (AGP)
 
 
-### 📌 Case 1: [Your Title for AGP Case 1, e.g., Text-to-Audio Alignment]
+### 📌 Case 1:
 **🎧 Input Context**
 * **Prompt:** "[Insert Generation Prompt Here, e.g., 'A dog barks three times followed by a car engine starting.']"
 
 **🗣️ Candidate Generations**
-* **Response 1 (Audio):** `./dataset/generated/agp_case1_modelA.wav`
-* **Response 2 (Audio):** `./dataset/generated/agp_case1_modelB.wav`
+* **Audio 1:** `./dataset/generated/agp_case1_modelA.wav`
+* **Audio 2:** `./dataset/generated/agp_case1_modelB.wav`
 
 **🧠 Reasoning Chain**
 
@@ -88,15 +88,14 @@
 
 <br>
 
-### 📌 Case 2: [Your Title for AGP Case 2]
-*(Template for your second AGP case)*
+### 📌 Case 2: 
 
 **🎧 Input Context**
 * **Prompt:** "[Insert Prompt Here]"
 
 **🗣️ Candidate Generations**
-* **Response 1 (Audio):** `./dataset/generated/agp_case2_modelA.wav`
-* **Response 2 (Audio):** `./dataset/generated/agp_case2_modelB.wav`
+* **Audio 1:** `./dataset/generated/agp_case1_modelA.wav`
+* **Audio 2:** `./dataset/generated/agp_case1_modelB.wav`
 
 **🧠 Reasoning Chain**
 
