@@ -51,19 +51,19 @@
 
 **1. 🎯Prompt Following** 
 > 
-* **🏆 Dimension Winner: Response 2 is better**.
+* **↳ 🏆 Dimension Winner: Response 2 is better**.
 
 **2. 🎵Acoustic Grounding** 
 > 
-* **🏆 Dimension Winner: Tie**.
+* **↳ 🏆 Dimension Winner: Tie**.
 
 **3. 📚Comprehensiveness**
 > 
-* **🏆 Dimension Winner: Response 2 is better**.
+* **↳ 🏆 Dimension Winner: Response 2 is better**.
 
 **⚖️ Summary**
 > 
-* **👑 Overall Winner: Response 2 is better**
+* **↳ 👑 Overall Winner: Response 2 is better**
 
 ---
 
@@ -84,19 +84,19 @@
 
 **1. 🎯Prompt Following** 
 > Audio 1 features a piano sound, but the music played is chaotic, atonal, and lacks the structural characteristics typically associated with classical music. It sounds more like random notes being generated rapidly rather than a composed piece. Audio 2 presents a clear, melodic piano performance that strongly resembles the style of classical music, specifically reminiscent of a romantic or classical era piece. It is structured, harmonic, and recognizable as the genre requested.
-* **🏆 Dimension Winner: Audio 2 is better**.
+* **↳ 🏆 Dimension Winner: Audio 2 is better**.
 
 **2. 🎵Audio Quality** 
 > Audio 1 suffers from significant artifacts. The piano tone is unnatural, warbled, and sounds like a low-bitrate synthesis with phasing issues. The dynamics are flat and unconvincing. Audio 2 has a much cleaner recording quality. The piano sounds realistic, with a natural decay and room ambiance (reverb). While there is some minor tape hiss or background noise, it sounds like a legitimate recording of an instrument rather than a glitchy generation.
-* **🏆 Dimension Winner: Audio 2 is better**.
+* **↳ 🏆 Dimension Winner: Audio 2 is better**.
 
 **3. 📚Acoustic Detail**
 > Audio 1 lacks acoustic depth; the notes sound plunky and artificial, without the complex resonance of real strings or a piano body. Audio 2 captures the nuances of a piano performance, including the attack of the hammers, the resonance of the strings, and the sustain of the notes. The phrasing and dynamics in Audio 2 provide a much richer acoustic experience.
-* **🏆 Dimension Winner: Audio 2 is better**.
+* **↳ 🏆 Dimension Winner: Audio 2 is better**.
 
 **⚖️ Summary**
 > Audio 2 is the clear winner across all dimensions. It actually sounds like classical music played on a real piano, adhering perfectly to the prompt. Audio 1 sounds like a garbled, random sequence of synthesized piano notes with poor audio fidelity and no musical structure.
-* **👑 Overall Winner: Audio 2 is better**
+* **↳ 👑 Overall Winner: Audio 2 is better**
 
 <br>
 
@@ -114,17 +114,17 @@
 
 **1. 🎯Prompt Following** 
 > 
-* **🏆 Dimension Winner: Response 2 is better**.
+* **↳ 🏆 Dimension Winner: Response 2 is better**.
 
 **2. 🎵Audio Quality** 
 > 
-* **🏆 Dimension Winner: Tie**.
+* **↳ 🏆 Dimension Winner: Tie**.
 
 **3. 📚Acoustic Detail**
 > 
-* **🏆 Dimension Winner: Response 2 is better**.
+* **↳ 🏆 Dimension Winner: Response 2 is better**.
 
 **⚖️ Summary**
 > 
-* **👑 Overall Winner: Response 2 is better**
+* **↳ 👑 Overall Winner: Response 2 is better**
 ---
