@@ -10,8 +10,12 @@
 * **Audio:** `./dataset/wavs/audio_17801.wav`
 
 **🗣️ Candidate Responses**
-* **Response 1:** The violin melody is prominent and weaves throughout the instrumental music piece... It starts off with a solo and continues with an animated passage that leads into a lullaby-like section. The violin remains a key element... providing a soothing yet captivating presence.
-* **Response 2:** The violin melody is initially prominent and central in the music excerpt, taking the lead role in the instrumental ensemble. As the music progresses, the violin's prominence wanes somewhat, giving way to other instruments such as the cello and upright bass which become more audible. Concurrently, the female voice becomes increasingly dominant, eventually overtaking the instrumental sounds by the end of the excerpt.
+**Response 1:**
+> The violin melody is prominent and weaves throughout the instrumental music piece... It starts off with a solo and continues with an animated passage that leads into a lullaby-like section. The violin remains a key element... providing a soothing yet captivating presence.
+
+**Response 2:**
+> The violin melody is initially prominent and central in the music excerpt, taking the lead role in the instrumental ensemble. As the music progresses, the violin's prominence wanes somewhat, giving way to other instruments such as the cello and upright bass which become more audible. Concurrently, the female voice becomes increasingly dominant, eventually overtaking the instrumental sounds by the end of the excerpt.
+
 
 **🧠 Reasoning Chain**
 
