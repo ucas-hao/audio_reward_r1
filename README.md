@@ -1,3 +1,7 @@
+🔥 Our work has been finally accepted by EMNLP 2026 Main.
+
+I'm aiming to get the dataset organized before National Day. I've been job hunting lately, so apologies for the slow replies — and I'd welcome anyone working on audio large models to connect and chat about the job search.
+
 # 📊 Case Studies
 
 ---
